@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242015412154",
+    "project_id": "foodversity-8896b",
+    "storage_bucket": "foodversity-8896b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242015412154:android:42e86af26e4f9171bb0783",
+        "android_client_info": {
+          "package_name": "com.example.foodversity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242015412154-mgrnj0mhq27af1cmmtt2iidguteel49i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPTamQLZK7kiQS_U6DK2y1BTtqzbF6E-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242015412154-mgrnj0mhq27af1cmmtt2iidguteel49i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
