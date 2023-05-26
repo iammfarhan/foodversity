@@ -9,9 +9,9 @@ By leveraging the power of Foodversity, students can effortlessly satisfy their 
 
 ## App UI
 
+![12](https://github.com/iammfarhan/foodversity/assets/70325196/0017bf33-cac4-450b-8dbe-2a39018cf653)
 ![13](https://github.com/iammfarhan/foodversity/assets/70325196/0ea9f3b9-04cb-498a-8332-01ec3bdb91b2)
 ![14](https://github.com/iammfarhan/foodversity/assets/70325196/b99c1680-2435-44eb-9b0c-75f811c8adef)
 ![15](https://github.com/iammfarhan/foodversity/assets/70325196/89ce14ec-81be-4c9f-8c12-0e2ab374d73f)
-![12](https://github.com/iammfarhan/foodversity/assets/70325196/0017bf33-cac4-450b-8dbe-2a39018cf653)
-![9](https://github.com/iammfarhan/foodversity/assets/70325196/32cdad2a-ea08-4c93-b5e7-3ddf92681d54)
+![9](https://github.com/iammfarhan/foodversity/assets/70325196/29963c2c-6f29-4cd7-89be-eec28d8061d7)
 ![10](https://github.com/iammfarhan/foodversity/assets/70325196/6160456f-f99b-4d1e-b140-b79b0330e11b)
