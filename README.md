@@ -7,7 +7,7 @@ Key features of the Foodversity app include the ability to browse and add favori
 
 By leveraging the power of Foodversity, students can effortlessly satisfy their cravings, streamline their food ordering process, and enjoy the convenience of having delicious meals from their university canteens delivered right to their doorstep.
 
-## App UI
+# App UI
 
 ![12](https://github.com/iammfarhan/foodversity/assets/70325196/0017bf33-cac4-450b-8dbe-2a39018cf653)
 ![13](https://github.com/iammfarhan/foodversity/assets/70325196/0ea9f3b9-04cb-498a-8332-01ec3bdb91b2)
